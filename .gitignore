@@ -1,5 +1,6 @@
 __pycache__
 run-*
+.DS_Store
 saves/*
 wandb/*
 .idea
